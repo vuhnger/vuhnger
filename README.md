@@ -1,8 +1,8 @@
-### Hi there, I'm @vuhnger 👋
+## Hi there, I'm @vuhnger 👋
 
-### 🔭 I’m currently working as a TA at the informatics dept. at UiO.
-### 👯 I’m looking to collaborate on web technologies or fun side projects.
-### 📫 How to reach me: victou@ifi.uio.no
+#### 🔭 I’m currently working as a TA at the informatics dept. at UiO.
+#### 👯 I’m looking to collaborate on web technologies or fun side projects.
+#### 📫 How to reach me: victou@ifi.uio.no
 
 <!--
 **vuhnger/vuhnger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

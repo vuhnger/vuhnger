@@ -8,7 +8,7 @@
 
 [Email](mailto:victou@ifi.uio.no)
 
-[Website](www.vuhnger.dev/home)
+![Website](www.vuhnger.dev/home)
 
 #### My most used programming languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhnger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

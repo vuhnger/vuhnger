@@ -1,6 +1,6 @@
 ## Hi there, I'm @vuhnger 👋
 
-#### 🔭 I’m currently working as a full stack developer @ UiO.
+#### 🔭 I’m currently working as a Consultant @ UiO and pursuing a BSc in Computer Science.
 
 #### 📫 How to reach me
 

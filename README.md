@@ -16,3 +16,7 @@
 ### Recent visitors
 
 [![](https://visitcount.itsvg.in/api?id=vuhnger&icon=2&color=12)](https://visitcount.itsvg.in)
+
+### Projects
+
+My favorite project repositories are pinned. Take a look if you want!

@@ -1,6 +1,10 @@
 ## Hi there, I'm @vuhnger 👋
 
-#### 🔭 I’m currently working as a Consultant @ UiO and pursuing a BSc in Computer Science.
+#### 🔭 I’m currently working as a Consultant @ UiO and pursuing a MSc in Programming and Systems Architecture at the University of Oslo.
+
+I'm interested in software engieering, distributed systems and security.
+
+I also like to run. 🏃‍♂️
 
 #### 📫 How to reach me
 

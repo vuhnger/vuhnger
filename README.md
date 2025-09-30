@@ -10,6 +10,8 @@ I've interned at [Bekk](https://www.bekk.no/), working as a full-stack developer
 
 I've worked as a full-stack dev at [UiO](https://www.mn.uio.no/ifi/english/index.html), creating a monitoring platform for students.
 
+I'm currently working with various tech initiatives @ [Dr. Dropin Bedrift](https://bedrift.drdropin.no/)!
+
 #### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victoruhnger)

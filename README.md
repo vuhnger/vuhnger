@@ -1,6 +1,6 @@
 ## Hi there, I'm @vuhnger 👋
 
-#### 🔭 I’m currently working as a Consultant @ UiO and pursuing a MSc in Programming and Systems Architecture at the University of Oslo.
+#### 🔭 I’m currently pursuing a MSc in Programming and Systems Architecture at the University of Oslo.
 
 I'm interested in software engieering, distributed systems and security.
 

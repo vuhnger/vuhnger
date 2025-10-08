@@ -6,7 +6,7 @@ I'm interested in software engieering, distributed systems and security.
 
 I also like to run. 🏃‍♂️
 
-I've interned at [Bekk](https://www.bekk.no/), working as a full-stack developer on a security team.
+I've interned at [Bekk](https://www.bekk.no/), working as a full-stack developer on web application security for [Kartverket](https://www.kartverket.no/).
 
 I've worked as a full-stack dev at [UiO](https://www.mn.uio.no/ifi/english/index.html), creating a monitoring platform for students.
 

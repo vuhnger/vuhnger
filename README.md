@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently pursuing a MSc in Programming and Systems Architecture at the University of Oslo.
 
-I'm interested in software engieering, distributed systems and security.
+I'm interested in software engieering, distributed systems, networking, security, automations and NLP.
 
 I also like to run. 🏃‍♂️
 
@@ -12,7 +12,9 @@ I've worked as a full-stack dev at [UiO](https://www.mn.uio.no/ifi/english/index
 
 I'm currently working with various tech initiatives @ [Dr. Dropin Bedrift](https://bedrift.drdropin.no/)!
 
-Checkout my [Website](https://www.vuhnger.dev/home) for more information about my experience and interests.
+
+
+Checkout my [Website](https://www.vuhnger.dev/) for more information about my experience and interests!!
 
 #### 📫 How to reach me
 
@@ -20,7 +22,6 @@ Checkout my [Website](https://www.vuhnger.dev/home) for more information about m
 
 [📧Email](mailto:victou@ifi.uio.no)
 
-#### My most used programming languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhnger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Recent visitors

@@ -12,16 +12,8 @@ I've worked as a full-stack dev at [UiO](https://www.mn.uio.no/ifi/english/index
 
 I'm currently working with various tech initiatives @ [Dr. Dropin Bedrift](https://bedrift.drdropin.no/)!
 
-
 Checkout my [Website](https://www.vuhnger.dev/) for more information about my experience and interests!!
 
-#### 📫 How to reach me
+#### 🔧 Projectss
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victoruhnger)
-
-[📧Email](mailto:victou@ifi.uio.no)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhnger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-My favorite project repositories are pinned. Take a look if you want!
+My favorite project repositories are pinned, but I have many more, check them out!

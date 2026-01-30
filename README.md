@@ -12,7 +12,10 @@ I've worked as a full-stack dev at [UiO](https://www.mn.uio.no/ifi/english/index
 
 I'm currently working with various tech initiatives @ [Dr. Dropin Bedrift](https://bedrift.drdropin.no/)!
 
-Checkout my [Website](https://www.vuhnger.dev/) for more information about my experience and interests!!
+My website consists of:
+[www.vuhnger.dev](https://www.vuhnger.dev) - The portfolio
+[api.vuhnger.dev](https://api.vuhnger.dev) - The API and docs
+[tavla.vuhnger.dev](https://tavla.vuhnger.dev) - Public transport dashboard
 
 #### 🔧 Projectss
 

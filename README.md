@@ -1,8 +1,8 @@
 ## Hi there, I'm @vuhnger 👋
 
-#### 🔭 I’m currently pursuing a MSc in Programming and Systems Architecture at the University of Oslo.
+#### 🔭 MSc in Programming and Systems Architecture @ University of Oslo.
 
-I'm interested in software engieering, distributed systems, networking, security, automations and NLP.
+I'm interested in software engineering, distributed systems, networking, security, automations, and NLP.
 
 I also like to run. 🏃‍♂️
 
@@ -16,4 +16,4 @@ Checkout my [Website](https://www.vuhnger.dev/) for more information about my ex
 
 #### 🔧 Projectss
 
-My favorite project repositories are pinned, but I have many more, check them out!
+My favorite project repositories are pinned, but I have many more. Check them out!

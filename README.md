@@ -13,6 +13,7 @@ I've worked as a full-stack dev at [UiO](https://www.mn.uio.no/ifi/english/index
 I'm currently working with various tech initiatives @ [Dr. Dropin Bedrift](https://bedrift.drdropin.no/)!
 
 My website consists of:
+
 [www.vuhnger.dev](https://www.vuhnger.dev) - The portfolio
 
 [api.vuhnger.dev](https://api.vuhnger.dev) - The API and docs

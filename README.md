@@ -23,3 +23,7 @@ My website consists of:
 #### 🔧 Projectss
 
 My favorite project repositories are pinned, but I have many more. Check them out!
+
+## How much I code
+
+[![GH contribution frequency](https://github-readme-activity-graph.vercel.app/graph?username=vuhnger)](https://github.com/vuhnger/github-readme-activity-graph)

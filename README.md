@@ -20,6 +20,8 @@ My website consists of:
 
 [tavla.vuhnger.dev](https://tavla.vuhnger.dev) - Public transport dashboard
 
+[ruta.vuhnger.dev](https://ruta.vuhnger.dev) - Generates running routes between clinics at my workplace
+
 #### 🔧 Projectss
 
 My favorite project repositories are pinned, but I have many more. Check them out!

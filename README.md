@@ -25,7 +25,7 @@ My website consists of:
 My favorite project repositories are pinned, but I have many more. Check them out!
 
 Primary maintainer of:
-- [Peoply][https://peoply.app]
+- [Peoply](https://peoply.app)
 
 ## How much I code
 
